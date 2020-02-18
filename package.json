@@ -1,0 +1,14 @@
+{
+  "name": "𝙄𝙣𝙚𝙨❤",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Njc3OTEyOTc2NzQ0Nzc1NzIw.XkbLxg.P2XU_DImiCF1Udy9C7rUYGXjUZM",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
